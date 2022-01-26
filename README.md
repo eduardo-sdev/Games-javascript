@@ -13,6 +13,10 @@
   <img alt="game space invaders" src=".github/banner.jpg" width="100%">
 </p>
 
+<p align="center">
+    Veja o projeto online:<a href=""> <u>Space Invaders</u></a>
+</p>
+
 ## 🚀 Tecnologias
 
 Tecnologias usadas:
